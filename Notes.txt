@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=wIx1O5Y5EB4&t=153s&ab_channel=TraversyMedia
+
+
+If we have added font-weight on body, do we need to add it on h1 elements individually?
+
+
+
+
+
+
+
+Learn :
+
+rem - https://www.youtube.com/watch?v=H4UtKu11yXg&ab_channel=TraversyMedia
